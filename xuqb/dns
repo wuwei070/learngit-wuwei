@@ -1,0 +1,213 @@
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      1 0.000000    192.168.9.1           192.168.9.4           DNS      119                                  Standard query response 0xb17e  A 58.83.160.231 A 42.62.94.247 A 58.83.160.13
+
+Frame 1: 119 bytes on wire (952 bits), 119 bytes captured (952 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 41033 (41033)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      2 0.000140    192.168.9.1           192.168.9.4           DNS      119                                  Standard query response 0xb17e  A 58.83.160.231 A 42.62.94.247 A 58.83.160.13
+
+Frame 2: 119 bytes on wire (952 bits), 119 bytes captured (952 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 41033 (41033)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      3 0.124240    192.168.9.1           192.168.9.4           DNS      277                                  Standard query response 0xe6d6  CNAME static.home.mi.com.cloudcdn.net CNAME static.home.mi.com.cloudglb.com CNAME c06.i06.cncsd.lv3.cloudglb.com A 61.133.127.89 A 218.58.225.9 A 27.209.182.5 A 123.133.84.63 A 61.133.127.111
+
+Frame 3: 277 bytes on wire (2216 bits), 277 bytes captured (2216 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36339 (36339)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      4 0.000140    192.168.9.1           192.168.9.4           DNS      277                                  Standard query response 0xe6d6  CNAME static.home.mi.com.cloudcdn.net CNAME static.home.mi.com.cloudglb.com CNAME c06.i06.cncsd.lv3.cloudglb.com A 61.133.127.89 A 218.58.225.9 A 27.209.182.5 A 123.133.84.63 A 61.133.127.111
+
+Frame 4: 277 bytes on wire (2216 bits), 277 bytes captured (2216 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36339 (36339)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      5 0.001720    192.168.9.4           192.168.9.1           ICMP     305                                  Destination unreachable (Port unreachable)
+
+Frame 5: 305 bytes on wire (2440 bits), 305 bytes captured (2440 bits)
+Ethernet II, Src: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28), Dst: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8)
+Internet Protocol Version 4, Src: 192.168.9.4 (192.168.9.4), Dst: 192.168.9.1 (192.168.9.1)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      6 7.010680    192.168.9.4           224.0.0.251           MDNS     87                                   Standard query response 0x0000  A, cache flush 192.168.9.4
+
+Frame 6: 87 bytes on wire (696 bits), 87 bytes captured (696 bits)
+Ethernet II, Src: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28), Dst: IPv4mcast_00:00:fb (01:00:5e:00:00:fb)
+Internet Protocol Version 4, Src: 192.168.9.4 (192.168.9.4), Dst: 224.0.0.251 (224.0.0.251)
+User Datagram Protocol, Src Port: mdns (5353), Dst Port: mdns (5353)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      7 0.985900    192.168.9.4           224.0.0.251           MDNS     87                                   Standard query response 0x0000  A, cache flush 192.168.9.4
+
+Frame 7: 87 bytes on wire (696 bits), 87 bytes captured (696 bits)
+Ethernet II, Src: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28), Dst: IPv4mcast_00:00:fb (01:00:5e:00:00:fb)
+Internet Protocol Version 4, Src: 192.168.9.4 (192.168.9.4), Dst: 224.0.0.251 (224.0.0.251)
+User Datagram Protocol, Src Port: mdns (5353), Dst Port: mdns (5353)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      8 4.256180    192.168.9.1           192.168.9.4           DNS      114                                  Standard query response 0xf76c  CNAME o.data.mistat.xiaomi.com A 111.206.200.76
+
+Frame 8: 114 bytes on wire (912 bits), 114 bytes captured (912 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 56714 (56714)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+      9 0.000340    192.168.9.1           192.168.9.4           DNS      114                                  Standard query response 0xf76c  CNAME o.data.mistat.xiaomi.com A 111.206.200.76
+
+Frame 9: 114 bytes on wire (912 bits), 114 bytes captured (912 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 56714 (56714)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     10 31.158220   192.168.9.1           192.168.9.4           DNS      94                                   Standard query response 0xf41e  A 203.100.92.87
+
+Frame 10: 94 bytes on wire (752 bits), 94 bytes captured (752 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 58510 (58510)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     11 0.000740    192.168.9.1           192.168.9.4           DNS      94                                   Standard query response 0xf41e  A 203.100.92.87
+
+Frame 11: 94 bytes on wire (752 bits), 94 bytes captured (752 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 58510 (58510)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     12 0.000840    192.168.9.4           192.168.9.1           ICMP     122                                  Destination unreachable (Port unreachable)
+
+Frame 12: 122 bytes on wire (976 bits), 122 bytes captured (976 bits)
+Ethernet II, Src: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28), Dst: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8)
+Internet Protocol Version 4, Src: 192.168.9.4 (192.168.9.4), Dst: 192.168.9.1 (192.168.9.1)
+Internet Control Message Protocol
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     13 80.667400   192.168.9.1           192.168.9.4           DNS      125                                  Standard query response 0xfc1f  A 58.83.160.15 A 58.83.160.230 A 42.62.94.183
+
+Frame 13: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36380 (36380)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     14 0.000120    192.168.9.1           192.168.9.4           DNS      125                                  Standard query response 0xfc1f  A 58.83.160.15 A 58.83.160.230 A 42.62.94.183
+
+Frame 14: 125 bytes on wire (1000 bits), 125 bytes captured (1000 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36380 (36380)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     15 10.313080   192.168.9.1           192.168.9.4           DNS      119                                  Standard query response 0x9ee4  A 58.83.160.231 A 42.62.94.247 A 58.83.160.13
+
+Frame 15: 119 bytes on wire (952 bits), 119 bytes captured (952 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 58889 (58889)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     16 0.000380    192.168.9.1           192.168.9.4           DNS      119                                  Standard query response 0x9ee4  A 58.83.160.231 A 42.62.94.247 A 58.83.160.13
+
+Frame 16: 119 bytes on wire (952 bits), 119 bytes captured (952 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 58889 (58889)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     17 0.310640    192.168.9.1           192.168.9.4           DNS      277                                  Standard query response 0xdbe9  CNAME static.home.mi.com.cloudcdn.net CNAME static.home.mi.com.cloudglb.com CNAME c06.i06.cncsd.lv3.cloudglb.com A 123.133.84.63 A 218.58.225.9 A 27.209.182.5 A 61.133.127.89 A 61.133.127.111
+
+Frame 17: 277 bytes on wire (2216 bits), 277 bytes captured (2216 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 62453 (62453)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     18 0.000140    192.168.9.1           192.168.9.4           DNS      277                                  Standard query response 0xdbe9  CNAME static.home.mi.com.cloudcdn.net CNAME static.home.mi.com.cloudglb.com CNAME c06.i06.cncsd.lv3.cloudglb.com A 123.133.84.63 A 218.58.225.9 A 27.209.182.5 A 61.133.127.89 A 61.133.127.111
+
+Frame 18: 277 bytes on wire (2216 bits), 277 bytes captured (2216 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 62453 (62453)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     19 6.468900    192.168.9.4           224.0.0.251           MDNS     87                                   Standard query response 0x0000  A, cache flush 192.168.9.4
+
+Frame 19: 87 bytes on wire (696 bits), 87 bytes captured (696 bits)
+Ethernet II, Src: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28), Dst: IPv4mcast_00:00:fb (01:00:5e:00:00:fb)
+Internet Protocol Version 4, Src: 192.168.9.4 (192.168.9.4), Dst: 224.0.0.251 (224.0.0.251)
+User Datagram Protocol, Src Port: mdns (5353), Dst Port: mdns (5353)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     20 1.001520    192.168.9.4           224.0.0.251           MDNS     87                                   Standard query response 0x0000  A, cache flush 192.168.9.4
+
+Frame 20: 87 bytes on wire (696 bits), 87 bytes captured (696 bits)
+Ethernet II, Src: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28), Dst: IPv4mcast_00:00:fb (01:00:5e:00:00:fb)
+Internet Protocol Version 4, Src: 192.168.9.4 (192.168.9.4), Dst: 224.0.0.251 (224.0.0.251)
+User Datagram Protocol, Src Port: mdns (5353), Dst Port: mdns (5353)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     21 91.730820   192.168.9.1           192.168.9.4           DNS      114                                  Standard query response 0x33b7  CNAME o.data.mistat.xiaomi.com A 111.206.200.76
+
+Frame 21: 114 bytes on wire (912 bits), 114 bytes captured (912 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 11118 (11118)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     22 0.000280    192.168.9.1           192.168.9.4           DNS      114                                  Standard query response 0x33b7  CNAME o.data.mistat.xiaomi.com A 111.206.200.76
+
+Frame 22: 114 bytes on wire (912 bits), 114 bytes captured (912 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 11118 (11118)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     23 19.488721   192.168.9.1           192.168.9.4           DNS      213                                  Standard query response 0x7764  CNAME static.home.mi.com.cloudcdn.net CNAME static.home.mi.com.cloudglb.com CNAME c06.i06.cncjs.lv3.cloudglb.com A 112.83.122.49
+
+Frame 23: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: h323callsigalt (11720)
+Domain Name System (response)
+
+No.     Time        Source                Destination           Protocol Length Host       Time since request Info
+     24 0.000160    192.168.9.1           192.168.9.4           DNS      213                                  Standard query response 0x7764  CNAME static.home.mi.com.cloudcdn.net CNAME static.home.mi.com.cloudglb.com CNAME c06.i06.cncjs.lv3.cloudglb.com A 112.83.122.49
+
+Frame 24: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits)
+Ethernet II, Src: 08:10:79:b9:81:e8 (08:10:79:b9:81:e8), Dst: a0:86:c6:41:9f:28 (a0:86:c6:41:9f:28)
+Internet Protocol Version 4, Src: 192.168.9.1 (192.168.9.1), Dst: 192.168.9.4 (192.168.9.4)
+User Datagram Protocol, Src Port: domain (53), Dst Port: h323callsigalt (11720)
+Domain Name System (response)
